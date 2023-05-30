@@ -3,9 +3,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+- 🔭 I’m currently working on **ERP Systems**
 - 🌱 I’m currently learning **and keeping abreast emerging technologies, software trends and applying them to projects**
 
-- 👯 I’m looking to collaborate on **real-world experience as a developer**
+- 👯 I’m looking to collaborate on **Open Source and real-world experience as a developer**
 
 - 💬 Ask me about **Java, Javascript, PHP, C++, Golang, Typescript, React, Next, React Native, Python and MERN**
 
