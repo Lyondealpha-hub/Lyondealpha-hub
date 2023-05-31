@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source and real-world experience as a developer**
 
-- 💬 Ask me about **Java, Javascript, PHP, C++, Golang, Typescript, React, Next, React Native, Python and MERN**
+- 💬 Ask me about ** Backend Development, Web Development, Mobile Development, Database Development and integrations, API Integrations,Java, Javascript, PHP, C++, Golang, Typescript, React, Next, React Native, Python and MERN**
 
 - 📫 How to reach me **Alhajiahmed400@gmail.com**
 <p><br/>&nbsp;</p>
