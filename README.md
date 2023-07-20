@@ -31,11 +31,11 @@
 
 ---
 #### 🦾 Software
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,html,css,kotlin,nodejs,go,cs,dotnet,jquery,react,php,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,html,css,nodejs,go,cs,dotnet,php,)](https://skillicons.dev)
 
 ---
 #### 🧬 Tools & Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,postman,materialui,androidstudio,docker,figma,vim,git,eclipse,vscode,firebase,blender,remix,visualstudio,nextjs,idea,atom,regex,redux,babel,express,ts,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,postman,materialui,androidstudio,docker,figma,git,eclipse,vscode,firebase,visualstudio,nextjs,atom,redux,express,ts,react,powershell)](https://skillicons.dev)
 
 ---
 #### 🗄 Database
